@@ -35,11 +35,11 @@ AIFFEL_quest_cr
 .
 .
 └── GoingDeeper
-    ├── Ex01
+    ├── GD01
     .
     .
     .
-    └── Ex09
+    └── GD09
         ├── .ipynb
         └── README.md
 </code>
