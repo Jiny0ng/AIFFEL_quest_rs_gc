@@ -8,7 +8,7 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
 
     ![](https://github.com/averksuu/AIFFEL_quest_rs1/blob/master/Exploration/Ex01/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-07-15%20104417.png)  
-    ![](Exploration/Ex01/pictures/Снимок%20экрана%202025-07-15%20104430.png)
+    ![](https://github.com/averksuu/AIFFEL_quest_rs1/blob/master/Exploration/Ex01/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-07-15%20104430.png)
 
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
