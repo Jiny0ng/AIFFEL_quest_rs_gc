@@ -17,7 +17,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부  
     코드가 곳곳에 주석으로 설명되어 있어 이해에 도움이 됩니다!  
-    ![코드 주석 스크린샷](https://github.com/averksuu/AIFFEL_quest_rs1/blob/master/Exploration/Ex06/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-12%20103351.png)
+    ![코드 주석 스크린샷](https://github.com/averksuu/AIFFEL_quest_rs1/blob/master/Exploration/Ex06/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-12%20103351.png)
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
