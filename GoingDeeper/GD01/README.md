@@ -22,7 +22,7 @@
 
     전체 코드가 주석 덕분에 쉽게 읽힙니다.  
 
-    ![코드 스크린샷](https://github.com/averksuu/AIFFEL_quest_rs1/blob/master/GoingDeeper/GD01/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-28%20163712.png)
+    ![코드 스크린샷](https://github.com/averksuu/AIFFEL_quest_rs1/blob/master/GoingDeeper/GD01/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-28%20163712.png)
 
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
